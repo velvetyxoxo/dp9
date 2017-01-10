@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Hexo</title>
   
-  <link href="/atom.xml" rel="self"/>
+  <link href="/dp9/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://velvetyxoxo.github.io/dp9/"/>
   <updated>2017-01-09T05:09:03.474Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://velvetyxoxo.github.io/dp9/</id>
   
   <author>
     <name>John Doe</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Test</title>
-    <link href="http://yoursite.com/2017/01/09/Test/"/>
-    <id>http://yoursite.com/2017/01/09/Test/</id>
+    <link href="http://velvetyxoxo.github.io/dp9/2017/01/09/Test/"/>
+    <id>http://velvetyxoxo.github.io/dp9/2017/01/09/Test/</id>
     <published>2017-01-09T05:09:03.000Z</published>
     <updated>2017-01-09T05:09:03.474Z</updated>
     
@@ -37,8 +37,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2017/01/09/hello-world/"/>
-    <id>http://yoursite.com/2017/01/09/hello-world/</id>
+    <link href="http://velvetyxoxo.github.io/dp9/2017/01/09/hello-world/"/>
+    <id>http://velvetyxoxo.github.io/dp9/2017/01/09/hello-world/</id>
     <published>2017-01-09T04:00:14.777Z</published>
     <updated>2017-01-09T04:00:14.777Z</updated>
     
